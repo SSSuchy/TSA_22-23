@@ -14,18 +14,18 @@
 }
 @media (min-width:  600px){ /* if screen is big do this */
 				.bgDes1{
-					background-image: url('Pics/mars.jpg'); 
+					background-image: url(Pics/mars.jpg); 
 					height: 120vh !important; 
 					background-color: black;
 				}
 				.bgDes2{
-					background-image: url('Pics/moon.jpg'); 
+					background-image: url(Pics/moon.jpg); 
 					height: 120vh !important; 
 					background-color: black;\
 					background-repeat: no-repeat;
 				}
 				.bgDes3{
-					background-image: url('Pics/titan.jpg'); 
+					background-image: url(Pics/titan.jpg); 
 					height: 120vh !important; 
 					background-color: black;\
 					background-repeat: no-repeat;
